@@ -16,8 +16,9 @@ const Navigation = () => {
     <nav className="bg-background/95 backdrop-blur-sm border-b border-border sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
+          <img src="assets/soham-logo.png" alt="Soham Logo" style="height: 40px; width: auto;" />
           <Link to="/" className="flex items-center space-x-2">
-            <img src="assets/soham-logo.png" alt="Soham Logo" style="height: 40px; width: auto;" />
+            
             <div className="text-2xl font-bold bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent">
               Soham
             </div>
