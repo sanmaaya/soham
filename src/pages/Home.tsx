@@ -21,7 +21,7 @@ const Home = () => {
         <div className="relative max-w-6xl mx-auto text-center">
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
             <span className="bg-gradient-to-r from-primary via-primary-glow to-healing-blue bg-clip-text text-transparent">
-              Soham
+              SOHAM
             </span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-primary mb-6">
@@ -135,7 +135,7 @@ const Home = () => {
             Contact: 9567 846 343 | 9388 233 061
           </div>
           <div className="text-sm text-primary-foreground/60">
-            © 2023 Soham. All rights reserved.
+            © 2023 SOHAM. All rights reserved.
           </div>
         </div>
       </footer>
