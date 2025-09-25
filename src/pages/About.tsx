@@ -1,6 +1,6 @@
 import Navigation from "@/components/Navigation";
 import { Card } from "@/components/ui/card";
-import masterChoaImage from "@/assets/master-choa.jpg";
+import masterChoaImage from "@/src/assets/master-choa.jpg";
 
 const About = () => {
   return (
