@@ -1,53 +1,54 @@
-````
-# Soham Healing Centre Website
+# SOHAM: School of Healing and Meditation
 
-## Project Description
+Welcome to the official GitHub repository for SOHAM, a Pranic Healing center. This repository contains the code and assets for our website, which serves as a resource for those interested in Pranic Healing, meditation, and spiritual development.
 
-This is the official website for the Soham Healing Centre, a dedicated platform for promoting the practice of **Pranic Healing**. The website is designed to serve as a comprehensive resource for individuals interested in learning about and registering for our services.
+---
 
-The primary goal of this site is to inform visitors about the profound benefits of Pranic Healing and encourage them to connect with our center by providing their details through a simple registration form.
+### Project Overview
 
-## Key Features
+Our website is designed to be a clear and accessible platform for visitors to learn about Pranic Healing and register for our courses. The key features include:
 
-* **Compelling Landing Page:** The main page is crafted with inspiring content and high-quality visuals to create a welcoming and trustworthy digital space.
-* **Registration Portal:** A streamlined registration form allows users to easily submit their details, including their name, age, gender, email, phone number, and location.
-* **Automated Data Collection:** Upon submission, user data is securely captured and sent to the client via email for immediate follow-up.
-* **Database Integration:** All user information is also stored in a dedicated database, providing a structured and accessible record for the client's use.
+* **Informative Content:** Detailed sections on the core principles of Pranic Healing, including the **Law of Self-Recovery** and the **Law of Life-Energy**.
+* **Course Catalog:** A comprehensive list of our healing, spiritual, and prosperity courses.
+* **Registration Form:** A user-friendly form to collect basic information from prospective students. The form is configured to send registration details via email and store them in a database for easy management.
+* **Official Guidelines:** A dedicated section to display the Pranic Healing Guidelines, ensuring transparency and safety for all our clients.
 
-## Technologies Used
+---
 
-This website was built as a static site, leveraging the following core technologies:
+### Key Features
 
-* **Frontend:** HTML, CSS, and JavaScript
-* **Backend & Database:** A custom-built backend system (integrated via the AI website builder) for data handling and email notifications.
+**Pranic Healing Guidelines**
+We follow the official guidelines from Master Choa Kok Sui, the founder of Modern Pranic Healing, which state that:
+* Pranic Healing is a **complementary** therapy and is not intended to replace allopathic medicine.
+* Pranic Healers are not medical doctors and should not make medical diagnoses or prescribe medications.
+* Clients with persistent or severe symptoms should consult a medical doctor and a Certified Pranic Healer.
 
-## Getting Started
+**Course Categories**
+Our courses are categorized to help you find what you need:
+* **Healing Courses:** Basic Pranic Healing, Advanced Pranic Healing, Pranic Psychotherapy, Pranic Crystal Healing, Pranic Facelift and Pranic Body Sculpting, and Super Brain Yoga.
+* **Spiritual Courses:** Achieving Oneness with the Higher Soul, Arhatic Yoga, Om Mani Padme Hum, and more.
+* **Prosperity Courses:** Kriyashakti for Prosperity & Success, Pranic Feng Shui, and Spiritual Business Management.
 
-To get a copy of this project up and running on your local machine for development and testing, follow these steps:
+---
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-username/soham-healing-centre.git](https://github.com/your-username/soham-healing-centre.git)
-    ```
+### How to Contribute
 
-2.  **Navigate to the Project Directory:**
-    ```bash
-    cd soham-healing-centre
-    ```
+We welcome contributions from the community to help improve our website. If you'd like to contribute, please follow these steps:
 
-3.  **Open in Browser:**
-    Open the `index.html` file in your preferred web browser to view the website locally.
+1.  **Fork the repository.**
+2.  **Clone your forked repository:** `git clone https://github.com/YourUsername/soham-pranichealing.git`
+3.  **Create a new branch:** `git checkout -b feature/your-feature-name`
+4.  **Make your changes.**
+5.  **Commit your changes:** `git commit -m "feat: Add your descriptive commit message"`
+6.  **Push to the branch:** `git push origin feature/your-feature-name`
+7.  **Open a pull request** to the `main` branch of this repository.
 
-## Deployment
+---
 
-This website is hosted and deployed using **Render**. The project is connected to this GitHub repository, and any changes pushed to the main branch are automatically deployed to the live site.
+### Contact
 
-## Contact
+For more information about SOHAM or our courses, please contact us at:
+* **Email:** `bijutg@gmail.com`
+* **Phone:** `9567 846 343` or `9388233 061`
 
-For any questions or support, please contact the developer at:
-* **Email:** your-email@example.com
-
-## License
-
-This project is licensed under the MIT License.
-````
+Thank you for your interest and support!
